@@ -7,7 +7,11 @@ module.exports = {
     enabled: false,
   },
   theme: {
-    extend: {},
+    extend: {
+      colors:{
+        'abcd': '#243c5a'
+      },
+    },
   },
   variants: {},
   plugins: [],
