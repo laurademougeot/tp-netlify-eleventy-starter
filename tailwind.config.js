@@ -11,6 +11,9 @@ module.exports = {
       colors:{
         'abcd': '#243c5a'
       },
+      fontFamily:{
+        'sans': ['poppins','Arial','sans-serif'],
+      }
     },
   },
   variants: {},
